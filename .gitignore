@@ -1,0 +1,13 @@
+# 블로그에서 내려받은 원본 사진 (약 82MB) — 배포에 불필요
+images/_raw/
+images/_sheets/
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Vercel
+.vercel/
+node_modules/
+package*.json
