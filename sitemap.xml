@@ -62,13 +62,13 @@
   </url>
   <url>
     <loc>https://handle.starhome-enc.com/cases/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://handle.starhome-enc.com/brand/lx/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -243,6 +243,12 @@
   <url>
     <loc>https://handle.starhome-enc.com/cases/dongtan-dongyang/</loc>
     <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://handle.starhome-enc.com/cases/yongin-gangnam-maeul/</loc>
+    <lastmod>2026-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
